@@ -670,6 +670,7 @@ export default () => {
           imageMode: 'base64',
           videoMode: 'blob',
           audioMode: 'blob',
+          singleLineSpacingFactor: 1.15,
         })
       }
       catch {
